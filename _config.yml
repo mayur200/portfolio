@@ -102,13 +102,10 @@ content:
         quote: >
            Route Mobile is an communication domain based company which provides solutions in messaging, voice, email, SMS filtering, analytics, and monetization
         description: | # this will include new lines to allow paragraphs
-          Developed chatbot manager and a live agent using Django for handling leads generated via chatbot, simplifying the way an executive can reach multiple leads. We have used Flask as a microservice. | Developed whatsapp chatbot for vendor for downloading analysis
-available on web page for his leads. |Contributing to save upto 50% cost on Amazon RDS using Athena,S3
-and Glue. services | Developed 6 whatsapp chatbot using rasa and flask and integrated
-few of them with live agent and chatbot manager.
+          Developed chatbot manager and a live agent using Django for handling leads generated via chatbot, simplifying the way an executive can reach multiple leads. We have used Flask as a microservice. | Developed whatsapp chatbot for vendor for downloading analysis available on web page for his leads. |Contributing to save upto 50% cost on Amazon RDS using Athena,S3 and Glue services |Developed 6 whatsapp chatbot using rasa and flask and integrated few of them with live agent and chatbot manager.
         skills Used: Python, Django, Flask, AWS, Redis, Postgresql, RASA, Redis
         
-       - layout: right
+      - layout: right
         title: Planet Odoo
         sub_title: Software Developer
         caption: January 2019 - October 2021
@@ -116,11 +113,7 @@ few of them with live agent and chatbot manager.
         quote: >
            Planet odoo is service based IT company which develops ERP solutions to client using odoo 
         description: | # this will include new lines to allow paragraphs
-          MFG and Migration (October 2020 – October 2021): Developed drilled down BOM of Finished Product. Developed features in new ERP which has similar functionality like old ERP with new and more simplified solutions without making any changes in default workflow. Migrated millions of complicated data. 20 dynamic and easily readable pdf and excel reports are developed. |
-	Skills Used are Python, Odoo, Postgresql, Pandas | YOLO Health Management(Feb 2020 ‐ March2020) Contributed to code testing, debugging, and optimization for ’Warranty Management System’ software. Skills Used are Python, Odoo, Postgresql, |
-Variety of modules in odoo ERP(Jan 2019 – October 2020) I have migrated, customized and deployed 10 modules in Odoo apps.
-Integrated shipping API like UPS and Saia with odoo. I have developed dashboard which was helpful to analyse and tracking follow‐up of the leads. I have deployed and maintained projects on Nginx server. Contributed to code testing, debugging, and optimization for
-different variety of project. Skills Used are Python, Odoo, Postgresql, HTML, CSS |
+          MFG and Migration (October 2020 – October 2021): Developed drilled down BOM of Finished Product. Developed features in new ERP which has similar functionality like old ERP with new and more simplified solutions without making any changes in default workflow. Migrated millions of complicated data. 20 dynamic and easily readable pdf and excel reports are developed. | Skills Used are Python, Odoo, Postgresql, Pandas | YOLO Health Management(Feb 2020 ‐ March2020) Contributed to code testing, debugging, and optimization for 'Warranty Management System’ software. Skills Used are Python, Odoo, Postgresql, | Variety of modules in odoo ERP(Jan 2019 – October 2020) I have migrated, customized and deployed 10 modules in Odoo apps. Integrated shipping API like UPS and Saia with odoo. I have developed dashboard which was helpful to analyse and tracking follow‐up of the leads. I have deployed and maintained projects on Nginx server. Contributed to code testing, debugging, and optimization for different variety of project. Skills Used are Python, Odoo, Postgresql, HTML, CSS
         skills Used: Python, Django, Flask, AWS, Redis, Postgresql, RASA, Redis          
           
   - title: Education
