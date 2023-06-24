@@ -109,12 +109,12 @@ content:
            Planet odoo is service based IT company which develops ERP solutions to client using odoo 
         description: | # this will include new lines to allow paragraphs
           MFG and Migration (October 2020 – October 2021): Developed drilled down BOM of Finished Product. Developed features in new ERP which has similar functionality like old ERP with new and more simplified solutions without making any changes in default workflow. Migrated millions of complicated data. 20 dynamic and easily readable pdf and excel reports are developed.  
-        - Skills Used are Python, Odoo, Postgresql, Pandas  YOLO. 
+      - Skills Used are: Python, Odoo, Postgresql, Pandas  YOLO. 
           Health Management(Feb 2020 ‐ March2020) Contributed to code testing, debugging, and optimization for 'Warranty Management System’ software. 
-        - Skills Used are Python, Odoo, Postgresql,  
+      - Skills Used are: Python, Odoo, Postgresql,  
           Variety of modules in odoo ERP(Jan 2019 – October 2020) I have migrated, customized and deployed 10 modules in Odoo apps. Integrated shipping API like UPS and Saia with odoo. I have developed dashboard which was helpful to analyse and tracking follow‐up of the leads. I have deployed and maintained projects on Nginx server. Contributed to code testing, debugging, and optimization for different variety of project. 
-        - Skills Used are Python, Odoo, Postgresql, HTML, CSS
-        skills Used: Python, Django, Flask, AWS, Redis, Postgresql, RASA, Redis          
+      - Skills Used are: Python, Odoo, Postgresql, HTML, CSS
+      - skills Used: Python, Django, Flask, AWS, Redis, Postgresql, RASA, Redis          
           
   - title: Education
     layout: list
