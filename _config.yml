@@ -52,13 +52,9 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  I'm a passionate software engineer who finds joy in the art of coding. Setbacks never dampen my spirits as I believe they are stepping stones to success. I firmly believe that nurturing both your mind and health is crucial for personal growth. That's why I embrace activities like meditation, swimming, hitting the gym, and playing sports. These endeavors invigorate me, helping me stay focused and energized in both my professional and personal pursuits.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+
 
 content:
   - title:  My Project
@@ -69,12 +65,9 @@ content:
                       # other value (or no value) means no border will be displayed
         title: Share Spirit
         link: https://github.com/mayur200/SocialSite/tree/master
-        link_text: Share Spirit
+        link_text: You can share your spirit here
         additional_links:
           - title:  https://github.com/mayur200/SocialSite/tree/master
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
@@ -102,7 +95,9 @@ content:
         quote: >
            Route Mobile is an communication domain based company which provides solutions in messaging, voice, email, SMS filtering, analytics, and monetization
         description: | # this will include new lines to allow paragraphs
-          Developed chatbot manager and a live agent using Django for handling leads generated via chatbot, simplifying the way an executive can reach multiple leads. We have used Flask as a microservice. Developed whatsapp chatbot for vendor for downloading analysis available on web page for his leads. Contributing to save upto 50% cost on Amazon RDS using Athena,S3 and Glue services Developed 6 whatsapp chatbot using rasa and flask and integrated few of them with live agent and chatbot manager.
+          Developed chatbot manager and a live agent using Django for handling leads generated via chatbot, simplifying the way an executive can reach multiple leads. We have used Flask as a microservice. 
+          Developed whatsapp chatbot for vendor for downloading analysis available on web page for his leads. 
+          Contributing to save upto 50% cost on Amazon RDS using Athena,S3 and Glue services Developed 6 whatsapp chatbot using rasa and flask and integrated few of them with live agent and chatbot manager.
         skills Used: Python, Django, Flask, AWS, Redis, Postgresql, RASA, Redis
         
       - layout: right
@@ -113,7 +108,12 @@ content:
         quote: >
            Planet odoo is service based IT company which develops ERP solutions to client using odoo 
         description: | # this will include new lines to allow paragraphs
-          MFG and Migration (October 2020 – October 2021): Developed drilled down BOM of Finished Product. Developed features in new ERP which has similar functionality like old ERP with new and more simplified solutions without making any changes in default workflow. Migrated millions of complicated data. 20 dynamic and easily readable pdf and excel reports are developed.  Skills Used are Python, Odoo, Postgresql, Pandas  YOLO Health Management(Feb 2020 ‐ March2020) Contributed to code testing, debugging, and optimization for 'Warranty Management System’ software. Skills Used are Python, Odoo, Postgresql,  Variety of modules in odoo ERP(Jan 2019 – October 2020) I have migrated, customized and deployed 10 modules in Odoo apps. Integrated shipping API like UPS and Saia with odoo. I have developed dashboard which was helpful to analyse and tracking follow‐up of the leads. I have deployed and maintained projects on Nginx server. Contributed to code testing, debugging, and optimization for different variety of project. Skills Used are Python, Odoo, Postgresql, HTML, CSS
+          MFG and Migration (October 2020 – October 2021): Developed drilled down BOM of Finished Product. Developed features in new ERP which has similar functionality like old ERP with new and more simplified solutions without making any changes in default workflow. Migrated millions of complicated data. 20 dynamic and easily readable pdf and excel reports are developed.  
+        - Skills Used are Python, Odoo, Postgresql, Pandas  YOLO. 
+          Health Management(Feb 2020 ‐ March2020) Contributed to code testing, debugging, and optimization for 'Warranty Management System’ software. 
+        - Skills Used are Python, Odoo, Postgresql,  
+          Variety of modules in odoo ERP(Jan 2019 – October 2020) I have migrated, customized and deployed 10 modules in Odoo apps. Integrated shipping API like UPS and Saia with odoo. I have developed dashboard which was helpful to analyse and tracking follow‐up of the leads. I have deployed and maintained projects on Nginx server. Contributed to code testing, debugging, and optimization for different variety of project. 
+        - Skills Used are Python, Odoo, Postgresql, HTML, CSS
         skills Used: Python, Django, Flask, AWS, Redis, Postgresql, RASA, Redis          
           
   - title: Education
