@@ -50,7 +50,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I'm a passionate software engineer who finds joy in the art of coding. Setbacks never dampen my spirits as I believe they are stepping stones to success. I firmly believe that nurturing both your mind and health is crucial for personal growth. That's why I embrace activities like meditation, swimming, hitting the gym, and playing sports. These endeavors invigorate me, helping me stay focused and energized in both my professional and personal pursuits.
 
@@ -77,7 +77,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: BNP Paribas
         sub_title: Software Engineer
         caption: October 2022 - Present
@@ -85,9 +85,9 @@ content:
         quote: >
           BNP Paribas is French Bank and it as business in Finance, Investment Banking etc
         description: | # this will include new lines to allow paragraphs
-          I am actively engaged in the development, testing, and maintenance of various liquidity projects, encompassing finance reports and statistics for diverse banking clients.
+          I am actively engaged in the development, testing, and maintenance of various liquidity projects, encompassing finance reports and statistics for diverse banking clients. **Skills** used are python, flask, pandas, numpy, matplotlib, plotly
        
-      - layout: right
+      - layout: left
         title: Route Mobile
         sub_title: Software Developer
         caption: November 2021 - September 2022
@@ -98,9 +98,9 @@ content:
           Developed chatbot manager and a live agent using Django for handling leads generated via chatbot, simplifying the way an executive can reach multiple leads. We have used Flask as a microservice. 
           Developed whatsapp chatbot for vendor for downloading analysis available on web page for his leads. 
           Contributing to save upto 50% cost on Amazon RDS using Athena,S3 and Glue services Developed 6 whatsapp chatbot using rasa and flask and integrated few of them with live agent and chatbot manager.
-        skills Used: Python, Django, Flask, AWS, Redis, Postgresql, RASA, Redis
+        **Skills** used are Python, Django, Flask, AWS, Redis, Postgresql, RASA, Redis
         
-      - layout: right
+      - layout: left
         title: Planet Odoo
         sub_title: Software Developer
         caption: January 2019 - October 2021
@@ -108,13 +108,11 @@ content:
         quote: >
            Planet odoo is service based IT company which develops ERP solutions to client using odoo 
         description: | # this will include new lines to allow paragraphs
-          MFG and Migration (October 2020 – October 2021): Developed drilled down BOM of Finished Product. Developed features in new ERP which has similar functionality like old ERP with new and more simplified solutions without making any changes in default workflow. Migrated millions of complicated data. 20 dynamic and easily readable pdf and excel reports are developed.  
-      - Skills Used are: Python, Odoo, Postgresql, Pandas  YOLO. 
-          Health Management(Feb 2020 ‐ March2020) Contributed to code testing, debugging, and optimization for 'Warranty Management System’ software. 
-      - Skills Used are: Python, Odoo, Postgresql,  
-          Variety of modules in odoo ERP(Jan 2019 – October 2020) I have migrated, customized and deployed 10 modules in Odoo apps. Integrated shipping API like UPS and Saia with odoo. I have developed dashboard which was helpful to analyse and tracking follow‐up of the leads. I have deployed and maintained projects on Nginx server. Contributed to code testing, debugging, and optimization for different variety of project. 
-      - Skills Used are: Python, Odoo, Postgresql, HTML, CSS
-      - skills Used: Python, Django, Flask, AWS, Redis, Postgresql, RASA, Redis          
+          MFG and Migration (October 2020 – October 2021): Developed drilled down BOM of Finished Product. Developed features in new ERP which has similar functionality like old ERP with new and more simplified solutions without making any changes in default workflow. Migrated millions of complicated data. 20 dynamic and easily readable pdf and excel reports are developed
+**Skills** used areython, Odoo, Postgresql, Pandas  YOLO. 
+          Health Management(Feb 2020 ‐ March2020) Contributed to code testing, debugging, and optimization for 'Warranty Management System’ software. **Skills** used are Python, Odoo, Postgresql,  
+          Variety of modules in odoo ERP(Jan 2019 – October 2020) I have migrated, customized and deployed 10 modules in Odoo apps. Integrated shipping API like UPS and Saia with odoo. I have developed dashboard which was helpful to analyse and tracking follow‐up of the leads. I have deployed and maintained projects on Nginx server. Contributed to code testing, debugging, and optimization for different variety of project. **Skills** used are Python, Odoo, Postgresql, HTML, CSS.
+       **Skills** used are Python, Django, Flask, AWS, Redis, Postgresql, RASA, Redis          
           
   - title: Education
     layout: list
@@ -132,7 +130,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       I was involvig in project called 'Vulnerability assessment of web application using Hybrid algorithm'  Our team published research paper which was 'Vulnerability Assessment of Web Applications using Hybrid Algorithm. International Journal of Engineering Research and Technology. Vol 5, Issue 01, Pg. No. 220-221, January 2017, ISSN No: 2278-0181.'  I worked as freelancer for 'Maharashtra Times' newspaper.
 
-      #Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+#Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
