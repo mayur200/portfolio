@@ -6,38 +6,38 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Mayur Pardeshi
+title: Software Engineer
+#email:
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+#phone:
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: www.mayurpardeshi.com
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+twitter_username: MayurPardeshi1
+github_username:  mayur200
+#stackoverflow_username: 
+#dribbble_username: 
+facebook_username: mayur.pardeshi96
+#flickr_username: 
+instagram_username: mayur.pardeshi1
+linkedin_username: mayurpardeshi05
+#xing_username: 
+#pinterest_username:
+youtube_username: Mayur786619 
+#orcid_username: 
+#googlescholar_username: 
 
 # Additional icon links
 additional_links:
-- title: Link name
+- title: HackerRank
   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+  url: https://www.hackerrank.com/Mayur786
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -61,55 +61,85 @@ about_content: | # this will include new lines to allow paragraphs
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Projects # Title for the section
+  - title:  My Project
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        title: Share Spirit
+        link: https://github.com/mayur200/SocialSite/tree/master
+        link_text: Share Spirit
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  https://github.com/mayur200/SocialSite/tree/master
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          This is basic social networking site which is useful to create, delete , post , and like to your post
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
   - title: Experience
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: BNP Paribas
+        sub_title: Software Engineer
+        caption: October 2022 - Present
+        link: https://apac.bnppispl.com/
         quote: >
-          Short description of the company (optional)
+          BNP Paribas is French Bank and it as business in Finance, Investment Banking etc
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          I am actively engaged in the development, testing, and maintenance of various liquidity projects, encompassing finance reports and statistics for diverse banking clients.
+       
+      - layout: right
+        title: Route Mobile
+        sub_title: Software Developer
+        caption: November 2021 - September 2022
+        link: https://routemobile.com/
+        quote: >
+           Route Mobile is an communication domain based company which provides solutions in messaging, voice, email, SMS filtering, analytics, and monetization
+        description: | # this will include new lines to allow paragraphs
+          Developed chatbot manager and a live agent using Django for handling leads generated via chatbot, simplifying the way an executive can reach multiple leads. We have used Flask as a microservice. | Developed whatsapp chatbot for vendor for downloading analysis
+available on web page for his leads. |Contributing to save upto 50% cost on Amazon RDS using Athena,S3
+and Glue. services | Developed 6 whatsapp chatbot using rasa and flask and integrated
+few of them with live agent and chatbot manager.
+        skills Used: Python, Django, Flask, AWS, Redis, Postgresql, RASA, Redis
+        
+       - layout: right
+        title: Planet Odoo
+        sub_title: Software Developer
+        caption: January 2019 - October 2021
+        link: https://www.planet-odoo.com/
+        quote: >
+           Planet odoo is service based IT company which develops ERP solutions to client using odoo 
+        description: | # this will include new lines to allow paragraphs
+          MFG and Migration (October 2020 – October 2021): Developed drilled down BOM of Finished Product. Developed features in new ERP which has similar functionality like old ERP with new and more simplified solutions without making any changes in default workflow. Migrated millions of complicated data. 20 dynamic and easily readable pdf and excel reports are developed. |
+	Skills Used are Python, Odoo, Postgresql, Pandas | YOLO Health Management(Feb 2020 ‐ March2020) Contributed to code testing, debugging, and optimization for ’Warranty Management System’ software. Skills Used are Python, Odoo, Postgresql, |
+Variety of modules in odoo ERP(Jan 2019 – October 2020) I have migrated, customized and deployed 10 modules in Odoo apps.
+Integrated shipping API like UPS and Saia with odoo. I have developed dashboard which was helpful to analyse and tracking follow‐up of the leads. I have deployed and maintained projects on Nginx server. Contributed to code testing, debugging, and optimization for
+different variety of project. Skills Used are Python, Odoo, Postgresql, HTML, CSS |
+        skills Used: Python, Django, Flask, AWS, Redis, Postgresql, RASA, Redis          
+          
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: Atharva College of Engineering
+        sub_title: B.E. in I.T.
+        caption: 2013-2017
         quote: >
-          Short institution or course description (optional)
+          I passed this degree with First Class
         description: | # this will include new lines to allow paragraphs
           Description of qualification
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      I was involvig in project called 'Vulnerability assessment of web application using Hybrid algorithm' | Our team published research paper which was 'Vulnerability Assessment of Web Applications using Hybrid Algorithm. International Journal of Engineering Research and Technology. Vol 5, Issue 01, Pg. No. 220-221, January 2017, ISSN No: 2278-0181.' | I worked as freelancer for 'Maharashtra Times' newspaper.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      #Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
